@@ -70,4 +70,5 @@ II. [blood gases_new_1_1397](blood_gases_new_1_1397.ipynb): Processing of clinic
 
 1. [HFOV_processing](HFOV_processing.ipynb): Processing of recordings containing HFOV during neonatal transport.
 2.  [HFOV_processing_2](HFOV_Processing_2.ipynb): Further processing and analysis of ventilator data in HFOV recordings.
-3.   [HFOV_analysis](HFOV_analysis.ipynb): Analysis of ventilator data and blood gases of the included HFOV cases (**n=51**). Export statistics as Excel files and graphs. Produce graphs for the figures of the paper.  
+3.   [HFOV_analysis](HFOV_analysis.ipynb): Analysis of ventilator data and blood gases of the included HFOV cases (**n=51**). Export statistics as Excel files and graphs. Produce graphs for the figures of the paper.
+4.   [HFOV_analysis_clinical](HFOV_analysis_clinical.ipynb): Analysis of clinical data for HFOV recordings. 
